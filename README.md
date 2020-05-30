@@ -39,8 +39,8 @@ neighborhood of the current iterate. We refer to the non-accelerated steps
 as "standard Bregman steps".
 
 The minimization in standard Bregman steps is performed by using the FISTA
-method implemented in the FOM package [A. Beck and N. Guttmann-Beck,
-Optimization Methods and Software, 34:1 (2019), pp. 172-193]. 
+method implemented in the [FOM package](https://sites.google.com/site/fomsolver/)
+[A. Beck and N. Guttmann-Beck, Optimization Methods and Software, 34:1 (2019), pp. 172-193]. 
 The minimization of the unconstrained quadratic problems in the accelerated
 steps is performed by using the CG method.
 
