@@ -4,7 +4,7 @@
 
 ## Authors
 Valentina De Simone, University of Campania "Luigi Vanvitelli", Caserta, Italy, valentina[dot]desimone[at]unicampania[dot]it
-Daniela di Serafino, University of Campania "Luigi Vanvitelli", Caserta, Italy, daniela[dot]diserafino[at]unicampania[dot]it
+Daniela di Serafino, University of Campania "Luigi Vanvitelli", Caserta, Italy, daniela[dot]diserafino[at]unicampania[dot]it   
 Marco Viola, University of Campania "Luigi Vanvitelli", Caserta, Italy, marco[dot]viola[at]unicampania[dot]it
 
 ## Last Update
